@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Web/App development
-- 📫 How to reach me (Twitter @kemzymoore
+- 📫 How to reach me (Twitter @kemzymoore, Telegram @xoomlige
 
 <!---
 kemzymoore/kemzymoore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
