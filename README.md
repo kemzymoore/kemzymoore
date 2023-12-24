@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @kemzymoore
-- 👀 I’m interested in software developing
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Web/App development
 - 📫 How to reach me (Twitter @kemzymoore, Telegram @xoomlige
 
 <!---
